@@ -178,11 +178,6 @@ This workflow provides an automated **Discord channel creation** solution powere
   - Priority
   - Owner/team
 
-### Modify Discord Channel Structure
-
-```json
-"name": "{{ $json['Category/Type'] }}-{{ $json['Entry ID'] }}",
-"topic": "Channel for {{ $json['Title/Name'] }} - {{ $json['Category/Type'] }}"
 📄 License
 
 MIT License
